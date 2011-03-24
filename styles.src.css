@@ -95,7 +95,7 @@ h1 {
 }
 
 h2 {
-	font-family: georgia,sans-serif;
+	font-family: georgia,serif;
 	margin: 1em 0;
 	padding: 0;
 	font-size: 22px;
@@ -105,7 +105,7 @@ h2 {
 
 .article p,
   .article li {
-	font-family: georgia,helvetica,sans-serif;
+	font-family: georgia,sans-serif;
 	line-height: 1.3em;
 	padding-bottom: 1em;
 	font-size: 18px;
