@@ -1,5 +1,9 @@
 RewriteEngine On
 
+# no-www
+RewriteCond %{HTTP_HOST} !^html5forxp.com [NC]
+RewriteRule ^(.*)$ http://html5forxp.com%{REQUEST_URI} [R=301,L]
+
 # ISO 639 ftw \o/
 RewriteRule ^nl$ index-nl.php
 RewriteRule ^de$ index-de.php
