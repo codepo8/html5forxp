@@ -6,7 +6,8 @@ AddDefaultCharset UTF-8
 RewriteCond %{HTTP_HOST} !^html5forxp.com [NC]
 RewriteRule ^(.*)$ http://html5forxp.com%{REQUEST_URI} [R=301,L]
 
-# ISO 639 ftw \o/
+# ISO 639-1 ftw \o/
+# See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 RewriteRule ^nl$ index-nl.php
 RewriteRule ^de$ index-de.php
 
