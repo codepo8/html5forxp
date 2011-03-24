@@ -15,39 +15,17 @@
 
 <div class="article"><article>
 
+<p class="intro">Dit is een oproep aan alle Windows XP gebruikers om geen gebruik meer te maken van Internet Explorer zodat we samen van het internet een betere en meer genietbare plaats kunnen maken.</p>
 
+<p>Het internet is een wonderlijke plaats, een medium voor iedereen en een plek om alles te vinden wat je nodig hebt. We moeten er zorg voor dragen, het uitbreiden als een medium en er ten volle gebruik van maken net zoals we met andere media doen.</p>
 
-<p class="intro">Dit is een oproep aan alle Windows XP gebruikers om
-geen gebruik meer te maken van Internet Explorer zodat we samen van het
-internet een betere en meer genietbare plaats kunnen maken.</p>
+<p>Door de jaren heen is het het internet en ons gebruik ervan veranderd. Tegenwoordig willen we meer dan enkel maar teksten met mooie afbeeldingen en formulieren die we kunnen invullen en verzenden. Om het web gemakkelijker te maken voor iedereen moeten we daarom de infrastructuur van het internet en de software die we er voor gebruiken upgraden.</p>
 
-<p>Het internet is een wonderlijke plaats, een medium voor iedereen en
-een plek om alles te vinden wat je nodig hebt. We moeten er zorg voor
-dragen, het uitbreiden als een medium en er ten volle gebruik van maken
-net zoals we met andere media doen.</p>
+<p>Net zoals een auto het beste werkt op een vlakke rechte weg om op zijn best te kunnen presenteren, vereist het huidige internet een moderne browser om het beste uit het web te halen.</p>
 
-<p>Door de jaren heen is het het internet en ons gebruik ervan
-veranderd. Tegenwoordig willen we meer dan enkel maar teksten met mooie
-afbeeldingen en formulieren die we kunnen invullen en verzenden. Om het
-web gemakkelijker te maken voor iedereen moeten we daarom de
-infrastructuur van het internet en de software die we er voor gebruiken
-upgraden.</p>
+<p>Microsoft promoot “<a href="http://www.beautyoftheweb.com/">een mooier web</a>” met het uitbrengen van Internet Explorer 9 en zet mensen aan om meer van de dagelijkse web-ervaringen te eisen. Helaas is IE9 enkel beschikbaar voor Windows Vista en Windows 7 gebruikers, waardoor Windows XP gebruikers (wat voor hen goed genoeg is) niet kunnen genieten van een mooier web.</p>
 
-<p>Net zoals een auto het beste werkt op een vlakke rechte weg om op
-zijn best te kunnen presenteren, vereist het huidige internet een
-moderne browser om het beste uit het web te halen.</p>
-
-<p>Microsoft promoot "<a href="http://www.beautyoftheweb.com/">een mooier web</a>"
- met het uitbrengen van Internet Explorer 9 en zet mensen aan om meer
-van de dagelijkse web-ervaringen te eisen. Helaas is IE9 enkel
-beschikbaar voor Windows Vista en Windows 7 gebruikers, waardoor Windows
- XP gebruikers (wat voor hen goed genoeg is) niet kunnen genieten van
-een mooier web.</p>
-
-<p>Windows XP gebruikers kunnen enkel updaten naar IE8 als een
-vervanging voor het totaal verouderde IE6, dat – zelfs volgens Microsoft
- – <a href="http://ie6countdown.com/">volledig afgeschaft moet worden</a>.</p>
-
+<p>Windows XP gebruikers kunnen enkel updaten naar IE8 als een vervanging voor het totaal verouderde IE6, dat – zelfs volgens Microsoft – <a href="http://ie6countdown.com/">volledig afgeschaft moet worden</a>.</p>
 
 <p><strong>Dit is niet eerlijk en helpt de modernisering van het web niet.</strong></p>
 
@@ -86,12 +64,10 @@ mogelijkheid om manipulaties toe te voegen in elke manier mogelijk.</li>
 
 <li>Drag and drop en touch ondersteuning voor mobiele tabletten.</li>
 
-<li>Bestand uploads en toegang tot het bestanden beheer zoals elke andere applicatie dat kan.</li>
+<li>Bestand-uploads en toegang tot het bestanden beheer zoals elke andere applicatie dat kan.</li>
 </ul>
 
-<p>Al het bovenstaande kan van jouw zijn, overstappen van Internet
-Explorer naar een andere browser is het enige wat je hoeft te doen als je XP wil blijven
-gebruiken.</p>
+<p>Al het bovenstaande kan van jou zijn; overstappen van Internet Explorer naar een andere browser is het enige wat je hoeft te doen als je XP wil blijven gebruiken.</p>
 
 </article></div>
 
