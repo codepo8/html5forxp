@@ -25,7 +25,7 @@
 
 <p>Microsoft <a href="http://www.beautyoftheweb.com/">promote a beautiful web</a> with the release of Internet Explorer 9 and urge people to expect more of their day-to-day web experience but as IE9 is only available for Windows Vista and Windows 7 users, those who use Windows XP (as it is good enough for them) can not get a beautiful web.</p>
 
-<p>Windows XP users can only upgrade to IE8 as a replacement for the woefully outdated IE6, which - even according to Microsoft - <a href="http://ie6countdown.com/">needs to go away</a>.</p>
+<p>Windows XP users can only upgrade to IE8 as a replacement for the woefully outdated IE6, which — even according to Microsoft — <a href="http://ie6countdown.com/">needs to go away</a>.</p>
 
 <p><strong>This is not fair and this is not helping the web.</strong></p>
 
@@ -33,7 +33,7 @@
 
 <h2>An option to fix your current browser?</h2>
 
-<p>If you can not install a different browser on your system - take a look at <a href="http://code.google.com/chrome/chromeframe/">Google's Chrome Frame</a> to at least patch it.</p>
+<p>If you can not install a different browser on your system, take a look at <a href="http://code.google.com/chrome/chromeframe/">Google's Chrome Frame</a> to at least patch it.</p>
 
 
 <h2>What we can do with better browsers</h2>
@@ -42,7 +42,7 @@
 
 <ul><li>Native video and audio with keyboard enabled controls and the option to be manipulated in any way necessary.</li><li>Forms with richer controls like colour pickers, calendars and autocomplete fields.</li><li>Rounded corners, gradients and drop shadows without the need for any graphics</li><li>Local and offline storage to create real application experiences</li><li>Using geographical location and device orientation to give you a personalised experience of the web</li><li>Allowing for rich graphs and visualisations using Canvas and SVG.</li><li>Creating games that don't ask you to install plugins.</li><li>3D graphics and support for any font</li><li>Drag and drop and touch support for tablets.</li><li>File upload and access to the file system like any other application.</li></ul>
 
-<p>All this can be yours - just move on from Internet Explorer if you stick with XP.</p>
+<p>All this can be yours — just move on from Internet Explorer if you stick with XP.</p>
 
 
 
@@ -50,7 +50,7 @@
 
 <div class="aside"><aside>
 <h1>Make the web better with a new browser!</h1>
-<p>If you are an XP user and you can't or don't want to upgrade to Vista or Windows 7,change from Internet Explorer to a browser that supports modern technologies. Please download any of the following:</p>
+<p>If you are an XP user and you can’t or don’t want to upgrade to Vista or Windows 7, change from Internet Explorer to a browser that supports modern technologies. Please download any of the following:</p>
 
 <nav><ul class="downloads">
 <?php
