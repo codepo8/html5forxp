@@ -1,5 +1,7 @@
 RewriteEngine On
 
+AddDefaultCharset UTF-8
+
 # no-www
 RewriteCond %{HTTP_HOST} !^html5forxp.com [NC]
 RewriteRule ^(.*)$ http://html5forxp.com%{REQUEST_URI} [R=301,L]

@@ -1,21 +1,22 @@
+<?php header('Content-Type: text/html;charset=UTF-8'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>HTML5 for Windows XP - Upgrade from Internet Explorer</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<link rel="stylesheet" href="styles.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-  
+
 <div class="header"><header><h1>HTML5 for XP now!</h1></header></div>
 
 <div class="container">
 
 <div class="article"><article>
-  
-<p class="intro">This is a call to arms to make Windows XP users move away from Internet Explorer to help us all make the web a richer and more enjoyable place.</p>  
-  
+
+<p class="intro">This is a call to arms to make Windows XP users move away from Internet Explorer to help us all make the web a richer and more enjoyable place.</p>
+
 <p>The internet already is a wonderful place. A media for all and a place to find everything you need. We need to care for it, advance it as a media and use it to its full potential much like we do with the other media we have.</p>
 
 <p>Over the years, the internet and our use of it has grown. We want more than just some texts with pretty images and forms to fill in and to send off. To make the web easy to use for everybody, we need to upgrade the infrastructure of the web and the software we use to consume it.</p>
@@ -26,7 +27,7 @@
 
 <p>Windows XP users can only upgrade to IE8 as a replacement for the woefully outdated IE6, which - even according to Microsoft - <a href="http://ie6countdown.com/">needs to go away</a>.</p>
 
-<p><strong>This is not fair and this is not helping the web.</strong></p> 
+<p><strong>This is not fair and this is not helping the web.</strong></p>
 
 <p>Windows XP users should turn their back on Internet Explorer and choose a better browser.</p>
 
@@ -48,11 +49,11 @@
 </article></div>
 
 <div class="aside"><aside>
-<h1>Make the web better with a new browser!</h1>  
+<h1>Make the web better with a new browser!</h1>
 <p>If you are an XP user and you can't or don't want to upgrade to Vista or Windows 7,change from Internet Explorer to a browser that supports modern technologies. Please download any of the following:</p>
 
 <nav><ul class="downloads">
-<?php 
+<?php
 $links=array(
 '<li><a href="http://www.mozilla.com/en-US/firefox/all.html">Firefox</a></li>',
   '<li><a href="http://www.google.com/chrome/">Chrome</a></li>',
@@ -67,28 +68,19 @@ echo join($links);
 </div>
 
 <div class="footer"><footer>
-  <nav><ul><li><strong>English</strong></li><li><a href="index_de.php">Deutsch</a></li><li><a href="index_nl.php">Nederlands</a></li></ul></nav>
-  
+  <nav><ul><li><strong>English</strong></li><li><a href="/de">Deutsch</a></li><li><a href="/nl">Nederlands</a></li></ul></nav>
+
   <p>Written by <a href="http://twitter.com/codepo8">Chris Heilmann</a>, powered by annoyance and the memory of hours wasted on IE6 trying to replicate bugs instead of playing with new, cool technology.</p>
   <a href="http://www.w3.org/html/logo/">
     <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
     </a>
-  
+
 </footer></div>
 <!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=702220; 
-var sc_invisible=1; 
-var sc_security="92a002ea"; 
+<script>
+var sc_project=702220,sc_invisible=1,sc_security="92a002ea";
 </script>
-
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="vBulletin analytics"
-href="http://statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/702220/0/92a002ea/1/"
-alt="vBulletin analytics" ></a></div></noscript>
+<script src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="vBulletin analytics" href="http://statcounter.com/vbulletin/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/702220/0/92a002ea/1/" alt="vBulletin analytics"></a></div></noscript>
 <!-- End of StatCounter Code -->
 </body>
 </html>

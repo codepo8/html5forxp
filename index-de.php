@@ -1,21 +1,22 @@
+<?php header('Content-Type: text/html;charset=UTF-8'); ?>
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <title>HTML5 for Windows XP - auf Wiedersehen Internet Explorer</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<link rel="stylesheet" href="styles.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-  
+
 <div class="header"><header><h1>HTML5 for XP now!</h1></header></div>
 
 <div class="container">
 
 <div class="article"><article>
-  
-<p class="intro">Dies ist ein Aufruf an alle Windows XP Nutzer, dem Internet Explorer "Auf Wiedersehen" zu sagen. Die Nutzung des blauen E steht einem schönen und interessanten Internet im Wege und Sie verdienen einen besseren Service.</p>  
-  
+
+<p class="intro">Dies ist ein Aufruf an alle Windows XP Nutzer, dem Internet Explorer "Auf Wiedersehen" zu sagen. Die Nutzung des blauen E steht einem schönen und interessanten Internet im Wege und Sie verdienen einen besseren Service.</p>
+
 <p>Das Internet ist eine wunderbare Sache. Ein Medium für alle und ein Ort, an dem man alles finden kann, was man braucht oder einem Spass bereitet. Wir müssen das Internet gut behandeln, als Medium weiterentwickeln und sein ganzes Potenzial ausschöpfen - es ist das Mitmachfernsehen und die Zeitung, die sich unseren Anforderungen anpasst.</p>
 
 <p>Heutzutage verwenden wir das Internet in einer anderen Art und Weise als früher. Texte, Bilder, Verlinkungen und simple Formulare sind nicht mehr genug. Um das Web für alle einfach bedienbar zu machen und schön zu gestalten, müssen wir die Infrastruktur verbessern und die Anzeigegeräte durch neuere ersetzen.</p>
@@ -26,7 +27,7 @@
 
 <p>Windows XP Nutzer bekommen nur IE8 als Ersatz für den hoffnungslos veralteten IE6, der sogar von Microsoft als <a href="http://ie6countdown.com/">nicht mehr verwendbar bezeichnet wird</a>.</p>
 
-<p><strong>Das ist nicht fair und das hilft dem Web nicht weiter.</strong></p> 
+<p><strong>Das ist nicht fair und das hilft dem Web nicht weiter.</strong></p>
 
 <p>Windows XP Nutzer sollten daher Internet Explorer durch einen modernen Browser ersetzen, der nicht von Microsoft stammt. </p>
 
@@ -55,11 +56,11 @@
 </article></div>
 
 <div class="aside"><aside>
-<h1>Ein besseres Internet mit neuen Browsern!</h1>  
+<h1>Ein besseres Internet mit neuen Browsern!</h1>
 <p>Falls Sie Windows XP benutzen und kein neues Windows kaufen wollen oder können, ersetzen Sie bitte den Internet Explorer mit einem Browser, der neue Technologien versteht. Wählen Sie einfach einen von den folgenden, kostenlosen Browsern: </p>
 
 <nav><ul class="downloads">
-  <?php 
+  <?php
   $links=array(
   '<li><a href="http://www.mozilla.com/en-US/firefox/all.html">Firefox</a></li>',
     '<li><a href="http://www.google.com/chrome/">Chrome</a></li>',
@@ -74,28 +75,19 @@
 </div>
 
 <div class="footer"><footer>
-  <nav><ul><li><a href="index.php">English</a></li><li><strong>Deutsch</strong></li><li><a href="index_nl.php">Nederlands</a></li></ul></nav>
-  
+  <nav><ul><li><a href="/">English</a></li><li><strong>Deutsch</strong></li><li><a href="/nl">Nederlands</a></li></ul></nav>
+
   <p>Geschrieben von <a href="http://twitter.com/codepo8">Chris Heilmann</a>, inspiriert von Jahren, die ich vor dem Rechner verbrachte, um IE6 Fehler zu beheben, anstatt mit neuer Technologie zu spielen &Uuml;bersetzungshilfe von <a href="http://netzbrausen.de">Raimund B&uuml;chner</a></p>
   <a href="http://www.w3.org/html/logo/">
     <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
     </a>
-  
+
 </footer></div>
 <!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=702220; 
-var sc_invisible=1; 
-var sc_security="92a002ea"; 
+<script>
+var sc_project=702220,sc_invisible=1,sc_security="92a002ea";
 </script>
-
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="vBulletin analytics"
-href="http://statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/702220/0/92a002ea/1/"
-alt="vBulletin analytics" ></a></div></noscript>
+<script src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="vBulletin analytics" href="http://statcounter.com/vbulletin/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/702220/0/92a002ea/1/" alt="vBulletin analytics"></a></div></noscript>
 <!-- End of StatCounter Code -->
 </body>
 </html>
