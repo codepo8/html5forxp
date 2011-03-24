@@ -80,7 +80,7 @@ browser die moderne technologieën ondersteunt. Download daarvoor één van
  de volgende browsers:</p>
 
 <nav><ul class="downloads">
-  <li><a href="http://www.mozilla.com/en-US/firefox/all.html">Firefox</a></li><li><a href="http://www.apple.com/safari/">Safari</a></li><li><a href="http://www.google.com/chrome/">Chrome</a></li><li><a href="http://www.opera.com/browser">Opera</a></li></ul></nav>
+  <li><a href="http://www.mozilla.com/firefox/">Firefox</a></li><li><a href="http://www.apple.com/safari/">Safari</a></li><li><a href="http://www.google.com/chrome/">Chrome</a></li><li><a href="http://www.opera.com/browser">Opera</a></li></ul></nav>
 </aside></div>
 
 </div>

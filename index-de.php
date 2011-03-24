@@ -62,7 +62,7 @@
 <nav><ul class="downloads">
   <?php
   $links=array(
-  '<li><a href="http://www.mozilla.com/en-US/firefox/all.html">Firefox</a></li>',
+  '<li><a href="http://www.mozilla.com/firefox/">Firefox</a></li>',
     '<li><a href="http://www.google.com/chrome/">Chrome</a></li>',
     '<li><a href="http://www.opera.com/browser">Opera</a></li>',
     '<li><a href="http://www.apple.com/safari/">Safari</a></li>');
