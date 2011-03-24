@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# ISO 639 ftw \o/
+RewriteRule ^nl$ index-nl.php
+RewriteRule ^de$ index-de.php
+
+# The English version is the main version
+RewriteRule ^en$ http://html5forxp.com/ [R=301,L]
+
+# Redirect old URLs to the new, prettier ones
+RewriteRule ^index.php$ http://html5forxp.com/ [R=301,L]
+RewriteRule ^index_([a-z]{2}).php$ http://html5forxp.com/$1 [R=301,L]
