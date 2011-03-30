@@ -1,0 +1,76 @@
+Making the case for accessibility in today's market
+
+Hi there, I am Chris. I've been doing a lot of web development in my career and also cared a lot about accessibility. 
+
+<h2>Worries about accessibility</h2>
+
+I am a bit worried about accessibility as a community and as an idea in web development. 
+
+My main worry is that there still is a massive disconnect in between bleeding edge web development and the accessibility world.
+
+<h2>The big web re-boot</h2>
+
+<p>Right now we are in the middle of reinventing the web. There are so many very cool things happening I would need two hours to tell you all about them. </p>
+
+<h2>Accessibility the show-stopper?</h2>
+
+Accessibility, however is always considered a bit of a downer. When you start talking about accessibility, then you most likely hear something about "graceful degradation" or even the annoyance of "extra version for disabled users". 
+
+<h2>You need to be accessible - it is the law!</h2>
+
+The main issue is that accessibility is considered something that needs to be done to a product to make it legal to release - not to make it better or interesting. 
+
+<h2>Accessible products are better products - tell the world!</h2>
+
+And this is where we need to stand up and shout and make a change.
+  
+<h2>Those crazy kids and their ideas - it'll never work!</h2>  
+  
+In general I get the feeling that the accessibility community as a whole is not as open to tech evolution as the rest of the web communities. Every new thing is considered a massive step for all of us to take and if it doesn't work 100% it is discarded as "not ready for use yet".
+
+<h2>Painting a wrong image of accessibiliy</h2>
+
+This grumpy old men image of the accessibility community doesn't help us with winning the hearts and minds of the developer community. 
+
+
+<h2>Accessibility is everywhere!</h2>
+
+If you take a look at the real world, we have a lot of accessibility enhancements (we fought for over the years) that do not only help people with disabilities but make it easier for everybody.
+
+<h2>Lowering the kerb for people who want to like accessibility</h2>
+
+Kerbs on roads have lower parts to allow for wheelchairs to get onto the sidewalk. This is also very useful for people with pushchairs or cyclists like me who like to celebrate my increased mobility in comparison to cars. 
+
+<h2>Digitising the world for conversion</h2>
+
+OCR scanning allows us to turn printed matter which is deteriorating into formats that can be converted and archived much easier. It was invented for a blind person.
+
+This can apply to anything - a text that is properly structured for assistive technology to understand is also easier to style and to index for a search engine or crawler.
+
+<h2>Being loud and proud and communicating across borders</h2>
+
+The speaker and subsequently the phone was invented for someone who was hard of hearing. Now it allows us to get ourselves heard and to speak people world-wide. I work in London and work with people in 7 countries and 6 time zones. I love that freedom.
+
+<h2>Don't just tell me, show me!</h2>
+
+Closed captioning on TVs was originally meant to be for the hard of hearing. If you look at where it is used mostly right now you'll find that it allows people to follow a TV show without disturbing others. You find TVs with captioning on in gyms and in sports bars.
+
+<h2>Right now, the web doesn't work that way</h2>
+
+On the web, however we still see accessibility as something that needs to be tacked on. Something that needs extra work and follows rules the normal developer doesn't understand. 
+
+<h2>Bad interfaces with broken promises</h2>
+
+This leads to us building stupid interfaces that look flashy and offer us some functionality but don't work. Like the buttons in the lift in Heathrow Airport un London. They are raised, they are big and they are easy to read - and they do exactly nothing.
+
+<h2>Accessibilty enhancements as a pacifier</h2>
+
+This is a very common thing in lifts though - there is the concept of a pacifier button. This is for example the button that closes the door, which normally does not make the door close faster. What it does though is give people the idea that they are in control and calms them down. After all being in a very small closed space can be scary. 
+
+On the web a lot of developers add these kind of enhancements to their web sites to feel that they have done "something" for accessibility. Font resizing widgets for example. 
+
+<h2>Hidden functionality for those in the know</h2>
+
+I lied though when I said that the close door buttons don't work. In the US they do have a special functionality. If you go into a lift and press the close door button and then the floor you want to go to whilst keeping the button pressed the lift will go directly to that floor and not stop in between - regardless of people requesting it on other floors. This is for firemen and the police to get there quickly. 
+
+<h2></h2>
